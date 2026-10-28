@@ -1,0 +1,4 @@
+* text=auto eol=lf
+# These files carry exact-byte SHA bindings; every platform must retain them.
+samples/** -text
+tools/compile_comic_prompt.py -text
