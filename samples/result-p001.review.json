@@ -1,0 +1,24 @@
+{
+  "image_sha256": "d375870747801adf6d336132735093d2c129220fd5bb2b14a20e719a707f3142",
+  "observer": "Actual image inspected by Codex for this original sample, 2026-10-28",
+  "source_story": {
+    "status": "PASS",
+    "observation": "三格由拾信、信封與天文台相同星印，到兩人向山坡出發；一頁保留原創p001-p003因果。"
+  },
+  "speaker_and_text": {
+    "status": "PASS",
+    "observation": "上格這封信要送去哪裡？氣泡尾指阿澄；中格看，屋頂那顆星星！尾指銅豆；底格無字。"
+  },
+  "character_identity": {
+    "status": "PASS",
+    "observation": "阿澄各格維持深色短髮、芥黃雨衣與青綠郵袋；銅豆維持銅橘金屬、圓眼、短肢與圓片天線。"
+  },
+  "page_order": {
+    "status": "PASS",
+    "observation": "單頁三個橫向寬格由上到下，拾信→找目的地→出發。"
+  },
+  "visible_artifact": {
+    "status": "PASS",
+    "observation": "實際檢視1024x1536生成原圖，兩句繁中完整、第三格無額外字。金色濕路與角色/星印可辨。"
+  }
+}

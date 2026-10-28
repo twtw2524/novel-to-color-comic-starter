@@ -1,0 +1,13 @@
+{
+  "episode": "sample-e001",
+  "title": "雨站的信",
+  "source_scope": "原創短篇p001-p003，一話一頁，三格",
+  "pages": [
+    {
+      "id": "p001",
+      "spec": "sample/page-p001.json",
+      "references": "sample/references.json",
+      "source_map": "sample/source-map.json"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "episode": "sample-e001",
+  "intent": "generate",
+  "source_path": "sample/source.json",
+  "source_sha256": "edc12559cc4d9810f4ba75656df30c32adee1fdd7a371734948e7c6cd758d5c8",
+  "style": {
+    "art_style": "精緻全彩敘事漫畫，三個橫向寬格由上至下閱讀",
+    "lighting": "雨後夕陽，青綠陰影與溫暖金光"
+  },
+  "panels": [
+    {
+      "panel": 1,
+      "scene": "雨後山城車站，木長椅旁",
+      "participants": [
+        "阿澄",
+        "銅豆"
+      ],
+      "positions": "阿澄蹲在長椅右方，銅豆在左側地面",
+      "action": "阿澄拾起一封背面朝下的米白信封，疑惑地看信封。銅豆從她身旁郵袋邊探出頭。",
+      "state": "兩人無傷，石板地面積水反光",
+      "reference_indexes": {
+        "阿澄": 1,
+        "銅豆": 1
+      }
+    },
+    {
+      "panel": 2,
+      "scene": "同一車站望向遠方山坡",
+      "participants": [
+        "阿澄",
+        "銅豆"
+      ],
+      "positions": "銅豆在前景右側指向遠處，阿澄在左側翻看信封背面",
+      "action": "銅豆指向山坡上一座屋頂有金色星飾的舊天文台。阿澄手中的信封背面有一枚相同的星形印章。星形僅為圖案，無文字。",
+      "state": "阿澄與銅豆都望向天文台方向",
+      "reference_indexes": {
+        "阿澄": 1,
+        "銅豆": 1
+      }
+    },
+    {
+      "panel": 3,
+      "scene": "車站通往山坡的濕石板路",
+      "participants": [
+        "阿澄",
+        "銅豆"
+      ],
+      "positions": "兩人背影往遠方天文台走去",
+      "action": "阿澄將信封收入青綠郵袋，銅豆與她並肩向山坡前進，夕陽把濕路映成金色。",
+      "state": "完整身影，無對話、無字、無標牌文字",
+      "reference_indexes": {
+        "阿澄": 1,
+        "銅豆": 1
+      }
+    }
+  ],
+  "texts": [
+    {
+      "panel": 1,
+      "dialogue_id": "d001",
+      "speaker": "阿澄",
+      "order": 1,
+      "text": "這封信要送去哪裡？",
+      "placement": "上格右上白色氣泡",
+      "tail_target": "阿澄嘴邊"
+    },
+    {
+      "panel": 2,
+      "dialogue_id": "d002",
+      "speaker": "銅豆",
+      "order": 2,
+      "text": "看，屋頂那顆星星！",
+      "placement": "中格右上白色氣泡",
+      "tail_target": "銅豆嘴邊"
+    }
+  ]
+}

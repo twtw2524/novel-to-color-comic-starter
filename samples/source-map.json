@@ -1,0 +1,37 @@
+{
+  "episode": "sample-e001",
+  "prompt_format": "panel-lettering-v2",
+  "source_path": "sample/source.json",
+  "source_sha256": "edc12559cc4d9810f4ba75656df30c32adee1fdd7a371734948e7c6cd758d5c8",
+  "identity_bindings_required": true,
+  "character_definitions": {
+    "阿澄": {
+      "state_id": "acheng-adult-raincoat",
+      "appearance": "28歲成年女子，深藍黑短鮑伯髮、琥珀棕眼、芥黃雨衣、青綠斜背郵袋、深灰長褲、棕靴"
+    },
+    "銅豆": {
+      "state_id": "tongdou-postal",
+      "appearance": "膝高銅橘色小郵務機器人，圓方頭、兩顆深青圓眼、胸前奶油白信封艙、短手短腳、圓片天線"
+    }
+  },
+  "materials": {
+    "阿澄": [
+      "6629fbee5403ccb256bed54e625ac7130bcfe087871ac61927e7c8bb4c25b007"
+    ],
+    "銅豆": [
+      "6629fbee5403ccb256bed54e625ac7130bcfe087871ac61927e7c8bb4c25b007"
+    ]
+  },
+  "dialogues": {
+    "d001": {
+      "speaker": "阿澄",
+      "source_range": "p001",
+      "basis": "原創來源明示阿澄說話"
+    },
+    "d002": {
+      "speaker": "銅豆",
+      "source_range": "p002",
+      "basis": "原創來源在銅豆動作後明示它說話"
+    }
+  }
+}

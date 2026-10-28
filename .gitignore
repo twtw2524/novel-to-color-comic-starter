@@ -1,0 +1,9 @@
+work/
+.venv/
+__pycache__/
+*.pyc
+.env*
+*.epub
+*.pdf
+sources/
+private/

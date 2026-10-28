@@ -1,0 +1,15 @@
+{
+  "references": [
+    {
+      "index": 1,
+      "path": "sample/refs/characters.png",
+      "sha256": "6629fbee5403ccb256bed54e625ac7130bcfe087871ac61927e7c8bb4c25b007",
+      "use_only": "人物身份、外觀與衣裝；不複製白底版型",
+      "identity_subjects": {
+        "阿澄": "左側芥黃雨衣成年短髮女子與同人側臉",
+        "銅豆": "右側銅橘色小機器人與同人側身"
+      },
+      "rights": "Original ImageGen character sheet created for this MIT starter."
+    }
+  ]
+}

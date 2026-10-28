@@ -1,0 +1,24 @@
+{
+  "image_sha256": "填實際原生PNG的SHA256",
+  "observer": "填實際看圖的人或代理",
+  "source_story": {
+    "status": "PASS或FAIL",
+    "observation": "拾信→辨識星印→出發的因果是否成立"
+  },
+  "speaker_and_text": {
+    "status": "PASS或FAIL",
+    "observation": "兩句繁中字與氣泡歸屬；第三格無字"
+  },
+  "character_identity": {
+    "status": "PASS或FAIL",
+    "observation": "短髮、雨衣、郵袋、機器人輪廓與各格身份"
+  },
+  "page_order": {
+    "status": "PASS或FAIL",
+    "observation": "三格從上到下，沒有重複/漏頁"
+  },
+  "visible_artifact": {
+    "status": "PASS或FAIL",
+    "observation": "已開啟實際PNG；非只看manifest"
+  }
+}
